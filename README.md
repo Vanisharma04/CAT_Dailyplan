@@ -2,7 +2,9 @@
 
 An AI-powered CAT exam preparation web application that generates personalized daily study plans using Google's Gemini AI.
 
-## 🎯 Features
+**Live Demo:** https://cat-dailyplan.onrender.com/
+
+## Features
 
 - **Personalized Study Plans**: AI-generated daily study schedules based on your proficiency levels
 - **Progress Tracking**: Track your daily progress and maintain study streaks
@@ -11,30 +13,34 @@ An AI-powered CAT exam preparation web application that generates personalized d
 - **Beautiful UI**: Modern, responsive design with smooth animations
 - **Local Storage**: Saves your profile and progress locally
 
-## 📚 Sections Covered
+## Sections Covered
 
 ### Quantitative Aptitude (QA)
 - Arithmetic, Algebra, Geometry, Number System
 - Advanced problem-solving techniques
 - Time-saving shortcuts and methods
 
-### Verbal Ability & Reading Comprehension (VARC)
+### Verbal Ability and Reading Comprehension (VARC)
 - Reading comprehension strategies
 - Vocabulary enhancement
 - Grammar and verbal reasoning
 
-### Data Interpretation & Logical Reasoning (DILR)
+### Data Interpretation and Logical Reasoning (DILR)
 - Data interpretation techniques
 - Logical reasoning puzzles
 - Case study analysis
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Google Gemini API key
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 
-### Installation
+### Quick Start
+
+Visit the live application: https://cat-dailyplan.onrender.com/
+
+### Local Installation
 
 1. **Clone the repository**
    ```bash
@@ -48,7 +54,7 @@ An AI-powered CAT exam preparation web application that generates personalized d
    - Copy the key for use in the application
 
 3. **Run the application**
-   - Simply open `index (1).html` in your web browser
+   - Simply open `index.html` in your web browser
    - Or use a local server:
      ```bash
      # Using Python
@@ -60,7 +66,7 @@ An AI-powered CAT exam preparation web application that generates personalized d
      # Then visit http://localhost:8000
      ```
 
-## 📖 How to Use
+## How to Use
 
 ### 1. Setup Your Profile
 - Enter your Gemini API key
@@ -85,7 +91,7 @@ An AI-powered CAT exam preparation web application that generates personalized d
 - The AI adapts based on your performance
 - Maintain your study streak for motivation
 
-## 🎨 Features in Detail
+## Features in Detail
 
 ### Dashboard
 - **Study Streak Counter**: Tracks consecutive days of study
@@ -104,7 +110,7 @@ An AI-powered CAT exam preparation web application that generates personalized d
 - **Performance tracking**: Monitor improvement over time
 - **Adaptive algorithms**: Plans evolve with your skills
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **AI Integration**: Google Gemini API
@@ -112,14 +118,14 @@ An AI-powered CAT exam preparation web application that generates personalized d
 - **Styling**: CSS Grid, Flexbox, Custom Properties
 - **Icons**: Custom SVG graphics
 
-## 📱 Browser Compatibility
+## Browser Compatibility
 
-- ✅ Chrome 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Edge 90+
+- Chrome 90+
+- Firefox 88+
+- Safari 14+
+- Edge 90+
 
-## 🔧 Configuration
+## Configuration
 
 ### API Setup
 The application uses Google's Gemini API for generating study plans. Make sure to:
@@ -133,7 +139,7 @@ You can modify:
 - UI colors through CSS variables
 - Section weightings and priorities
 
-## 📊 Data Structure
+## Data Structure
 
 ### User Profile
 ```javascript
@@ -167,7 +173,7 @@ You can modify:
 }
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -178,17 +184,17 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Test thoroughly
 5. Submit a pull request
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Google Gemini AI for powering the study plan generation
 - CAT aspirants community for feedback and suggestions
 - Open source community for inspiration and tools
 
-## 📞 Support
+## Support
 
 If you face any issues or have suggestions:
 - Create an issue on GitHub
@@ -213,8 +219,8 @@ If you face any issues or have suggestions:
 
 ---
 
-## 🌟 Star the Repository
+## Star the Repository
 
-If this project helped you in your CAT preparation, please give it a ⭐ on GitHub!
+If this project helped you in your CAT preparation, please give it a star on GitHub!
 
-**Made with ❤️ for CAT aspirants**
+**Made with love for CAT aspirants**
